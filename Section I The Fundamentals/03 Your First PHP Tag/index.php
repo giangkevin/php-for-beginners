@@ -10,5 +10,7 @@
         Practice typing the opening and closing "<?php ?>tags. -->
 
         <h1><?php echo "Hello, Github"; ?></h1>
+
+        <p><?php echo "What's good "; ?></p>
     </body>
 </html>
