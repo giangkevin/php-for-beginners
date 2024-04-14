@@ -3,5 +3,5 @@ This project is about following the course php for beginners by JeffreyWay and d
 
 ## Summary
 * Section 1 
-    01 How to Choose a Programming Language
-    02 Tools of the Trade
+    * 01 How to Choose a Programming Language
+    * 02 Tools of the Trade
