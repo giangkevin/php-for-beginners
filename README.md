@@ -3,7 +3,7 @@ This project is about following the course php for beginners by JeffreyWay and d
 
 ## Summary
 * Section I The Fundamentals
-    * 01 [How to Choose a Programming Language](https://youtu.be/U2lQWR6uIuo?si=WVOpty1txtQ1fgw9)
+    * [01 How to Choose a Programming Language](https://youtu.be/U2lQWR6uIuo?si=WVOpty1txtQ1fgw9)
     * [02 Tools of the Trade](https://www.youtube.com/watch?v=GeEGZYnzffo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC&index=2&pp=iAQB)
     * 03 Your First PHP Tag
     * 04 Variables
