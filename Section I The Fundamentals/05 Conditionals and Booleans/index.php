@@ -14,6 +14,8 @@
         </style>
     </head>
     <body>
+
+            <!-- Use a PHP short echo tag to display the string, "Hello World" on the page. -->
         <?php 
             $name = "Dark Matter";
             $read = true;
