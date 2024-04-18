@@ -25,10 +25,11 @@
         
         
         ?>
+        <!-- Extend the book list from this episode's example to also include and display the release year immediately after the book's title. -->
         <ul>
             <?php foreach ($books as $book) :?>
                 <li><a href="<?= $book['purchaseUrl'] ?>">
-                        <?= $book['name'] ?>
+                        <?= $book['name'] ?> <?= $book['releaseYear'] ?>
                     </a>
                 </li>
                 
