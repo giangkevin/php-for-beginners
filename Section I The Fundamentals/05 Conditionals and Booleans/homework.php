@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Conditionals and Booleans</title>
+        <title>Homework Conditionals and Booleans</title>
         <style>
             body{
                 display: grid;
