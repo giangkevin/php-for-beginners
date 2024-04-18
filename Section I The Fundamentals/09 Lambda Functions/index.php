@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Functions And Filters</title>
+        <title>Lambda Functions</title>
     </head>
     <body>
         <?php 
