@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Homework</title>
+    <title>Homework Function and Filters</title>
 </head>
 <body>
     <!-- Create an array of your favorites movies, including their respective release dates.
