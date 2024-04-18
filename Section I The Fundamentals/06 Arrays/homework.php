@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Arrays</title>
+        <title>Homework Arrays</title>
     </head>
     <body>
         <h1>Recommended Books</h1>
