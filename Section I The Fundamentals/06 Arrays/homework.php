@@ -21,5 +21,23 @@
                 <li><?= $book ?></li>
             <?php endforeach; ?>
         </ul>
+
+        <!-- Create an array of any three usernames -
+         perhaps for a "Top Performing Users" section of your website.
+         Then, create a loop that displays each username within a list item. -->
+
+
+        <?php 
+            $topUsers = [
+                "Maria",
+                "Keith",
+                "Minato"
+            ]; 
+        ?>
+        <ul>
+            <?php foreach($topUsers as $user) : ?>
+                <li><?= $user ?></li>
+            <?php endforeach ?>
+        </ul>
     </body>
 </html>
