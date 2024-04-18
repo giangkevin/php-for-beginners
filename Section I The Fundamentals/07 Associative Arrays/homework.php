@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Asssociative Arrays</title>
+        <title>Homework Asssociative Arrays</title>
     </head>
     <body>
         <?php 
