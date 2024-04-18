@@ -14,11 +14,14 @@
         </style>
     </head>
     <body>
+        <!-- Use a PHP short echo tag to display the string, "Hello World" on the page. -->
         <?php 
             $name = "Dark Matter";
             $read = true;
             $message = "You have read $name";
         ?>
         <h1><?= $message ?></h1>
+
+        <h2><?="Hello World"?></h2>
     </body>
 </html>
