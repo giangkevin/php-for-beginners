@@ -1,0 +1,1 @@
+google.sbox.p50 && google.sbox.p50(["create a mysql database laracast",[["creer une base de donnée avec xampp",0,[512,546,650]]],{"a":"K7T1in7hyUsdcXEjbdp2wT9Qb1Bh7OXpX115gJA44N4v215tug89l2fUeM0sPRBu9CpQoiSYMxp071NPLbqQ0I0RvtmYElWWXg","j":"50","k":1,"q":"Zg2CSMkEl1_GMgO4eukzTalDin8"}])
